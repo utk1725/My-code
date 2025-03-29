@@ -1,2 +1,2 @@
-# My-code
+# DSA 
 coding practices 
